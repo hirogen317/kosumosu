@@ -1,0 +1,5 @@
+bokeh
+
+selenium
+pillow
+pyyaml
